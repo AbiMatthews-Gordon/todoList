@@ -1,0 +1,7 @@
+[ERROR] 2021-02-16 22:27:06:865 [main] App - This is info
+[INFO ] 2021-02-16 22:29:53:991 [main] App - This is info
+[DEBUG] 2021-02-16 22:29:53:992 [main] App - This is debug
+[ERROR] 2021-02-16 22:29:53:992 [main] App - This is error
+[TRACE] 2021-02-16 22:29:53:993 [main] App - This is trace
+[FATAL] 2021-02-16 22:29:53:993 [main] App - This is fatal
+[WARN ] 2021-02-16 22:29:53:993 [main] App - This is warn

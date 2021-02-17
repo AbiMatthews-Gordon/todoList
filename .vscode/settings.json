@@ -1,0 +1,7 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\apache-log4j-2.13.3-bin\\log4j-api-2.13.3.jar",
+        "c:\\apache-log4j-2.13.3-bin\\log4j-core-2.13.3.jar"
+    ]
+}

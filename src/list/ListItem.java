@@ -1,12 +1,12 @@
-package src;
+package src.list;
 
 import java.time.LocalDateTime;
 
 public class ListItem{
     
     //local variables
-    String title;
-    String detail;
+    protected String title;
+    protected String detail;
     LocalDateTime dateTimeCreated;
     LocalDateTime dateTimeAmended;
 
